@@ -8,6 +8,7 @@ const name = 'Dallen';
         <View>
             <Text style={styles.textStyle}>Getting started with react native!</Text>
             <Text style = {{fontSize: 20}}>My name is {name}</Text>
+            <Text>Test for commit</Text>
 
         </View>
     );
